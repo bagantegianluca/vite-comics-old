@@ -76,6 +76,7 @@ li {
 }
 
 span {
+  text-transform: uppercase;
   margin-left: 16px;
 }
 
